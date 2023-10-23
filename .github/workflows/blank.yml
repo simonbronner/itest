@@ -1,6 +1,6 @@
 
 
-name: CI
+name: CI-other
 
 # Controls when the workflow will run
 on:
